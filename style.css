@@ -3,7 +3,7 @@ body {
   margin: 0;
 }
 
-/* NAVBAR SECTION */
+/*///// NAVBAR SECTION ///////*/
 
 .navbar {
   background-color: #1f2937;
@@ -27,4 +27,34 @@ a {
 h3 {
   font-size: 24px;
   letter-spacing: 1.5px;
+}
+
+/* ///////////////////////// */
+
+/* ////// HERO SECTION //////*/
+
+.hero-section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #1f2937;
+  color: #fff;
+  gap: 48px;
+  padding: 24px 24px 48px 24px;
+}
+
+.hero-text {
+  width: 30vw;
+  gap: 12px;
+}
+
+.placeholder-img {
+  background-color: #909090;
+  padding: 80px 120px;
+}
+
+.sign-up-button {
+  color: #fff;
+  background-color: rgb(59, 153, 236);
+  stroke: none;
 }
