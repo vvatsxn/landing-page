@@ -64,3 +64,24 @@ h1 {
   padding: 8px 24px;
   border-radius: 8px;
 }
+
+/*// RANDOM INFORMATION SECTION //*/
+
+.some-random-information {
+  margin-top: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 80%;
+}
+
+.placeholder-box {
+  width: 80px;
+  height: 80px;
+  border-radius: 16px;
+  background-color: blue;
+}
+
+.container-text {
+  align-items: center;
+}
