@@ -22,10 +22,12 @@ body {
   display: flex;
   gap: 1.2rem;
   letter-spacing: 1px;
+  font-size: 18px;
 }
 
 a {
   text-decoration: none;
+  color: #fff;
 }
 
 h3 {
@@ -49,6 +51,7 @@ h3 {
 
 h1 {
   font-size: 36px;
+  margin-bottom: 16px;
 }
 
 .hero-text {
@@ -67,6 +70,7 @@ h1 {
   stroke: none;
   padding: 8px 24px;
   border-radius: 8px;
+  margin-top: 12px;
 }
 
 /*// RANDOM INFORMATION SECTION //*/
